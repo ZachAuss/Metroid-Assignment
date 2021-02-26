@@ -1,0 +1,2800 @@
+fileFormatVersion: 2
+guid: 47b81c34806d30b44949278a3025612c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3971830916993339422
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_0
+  - first:
+      213: 8285427425167689644
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_1
+  - first:
+      213: 4500935149458217273
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_2
+  - first:
+      213: -8606239491303487551
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_3
+  - first:
+      213: 1769174045882123353
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_4
+  - first:
+      213: -9082844960122148421
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_5
+  - first:
+      213: 6397489760022564029
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_6
+  - first:
+      213: 5336459969492268638
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_7
+  - first:
+      213: 992636977103086804
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_8
+  - first:
+      213: 9123861079117566555
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_9
+  - first:
+      213: 4771247123918571551
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_10
+  - first:
+      213: -1960064336179043035
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_11
+  - first:
+      213: -4356599769258629628
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_12
+  - first:
+      213: -7019721523553183498
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_13
+  - first:
+      213: 6762050351695402538
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_14
+  - first:
+      213: -8153786717516741231
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_15
+  - first:
+      213: -7996731512693631399
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_16
+  - first:
+      213: 9205354081457919047
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_17
+  - first:
+      213: 7358345661224753984
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_18
+  - first:
+      213: 1926895759890329575
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_19
+  - first:
+      213: -8754352201231782332
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_20
+  - first:
+      213: -2953556332626505418
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_21
+  - first:
+      213: -6750186308239817826
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_22
+  - first:
+      213: -1669904560903605108
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_23
+  - first:
+      213: 123383864619559769
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_24
+  - first:
+      213: 198119955434897582
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_25
+  - first:
+      213: 5823658892895897700
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_26
+  - first:
+      213: -1879975413660881036
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_27
+  - first:
+      213: 8293293512875892266
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_28
+  - first:
+      213: -4927698737580274858
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_29
+  - first:
+      213: 9034276643114793985
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_30
+  - first:
+      213: -1658159379745760370
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_31
+  - first:
+      213: 8101494023181297974
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_32
+  - first:
+      213: -2242171696503620136
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_33
+  - first:
+      213: -1569758523846188617
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_34
+  - first:
+      213: 5924229043548693176
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_35
+  - first:
+      213: 5695924679052217837
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_36
+  - first:
+      213: -6466043176785872213
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_37
+  - first:
+      213: 6748209597024587222
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_38
+  - first:
+      213: 6801582758779901147
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_39
+  - first:
+      213: 2857347775533837941
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_40
+  - first:
+      213: -4353653268732676398
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_41
+  - first:
+      213: -3365463408653057877
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_42
+  - first:
+      213: -4924469358100323292
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_43
+  - first:
+      213: 4805974894895696401
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_44
+  - first:
+      213: -7543770001752225515
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_45
+  - first:
+      213: 1056881407965812925
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_46
+  - first:
+      213: -1436508350417422370
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_47
+  - first:
+      213: 5932627767695050478
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_48
+  - first:
+      213: -7137219524955037892
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_49
+  - first:
+      213: -5113266530311984000
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_50
+  - first:
+      213: -1806105536169255770
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_51
+  - first:
+      213: 8293283295555761130
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_52
+  - first:
+      213: 8799657723943157717
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_53
+  - first:
+      213: -108858716210205964
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_54
+  - first:
+      213: 8425218784784120341
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_55
+  - first:
+      213: 5743253877361267957
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_56
+  - first:
+      213: -4139263789073334035
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_57
+  - first:
+      213: -1375813910892604141
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_58
+  - first:
+      213: 6576844325799841488
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_59
+  - first:
+      213: -3882470749076924441
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_60
+  - first:
+      213: -6882883772337464618
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_61
+  - first:
+      213: -3561728214765150858
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_62
+  - first:
+      213: -182855230218551254
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_63
+  - first:
+      213: -64736238310075502
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_64
+  - first:
+      213: 4795405332948174192
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_65
+  - first:
+      213: -8650338396450827197
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_66
+  - first:
+      213: 2231206330275570417
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_67
+  - first:
+      213: 795037275400739681
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_68
+  - first:
+      213: 6744789387074746258
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_69
+  - first:
+      213: 707055918461106975
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_70
+  - first:
+      213: -5829398928862232694
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_71
+  - first:
+      213: 304531471770122202
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_72
+  - first:
+      213: -3436236160076484917
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_73
+  - first:
+      213: -4216180792390338640
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_74
+  - first:
+      213: 8007442003851276266
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_75
+  - first:
+      213: -6833451316498621701
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_76
+  - first:
+      213: -4347002375331347177
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_77
+  - first:
+      213: -1784320888225080932
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_78
+  - first:
+      213: 5402622495505107190
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_79
+  - first:
+      213: 1563349471172313103
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_80
+  - first:
+      213: -1482563965084439463
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_81
+  - first:
+      213: 85761140111704206
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_82
+  - first:
+      213: -8756835631697099686
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_83
+  - first:
+      213: 2869944469979710209
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_84
+  - first:
+      213: -163121728816681956
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_85
+  - first:
+      213: -7477209731123861207
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_86
+  - first:
+      213: 3695847888255374873
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_87
+  - first:
+      213: -4232973036662666149
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_88
+  - first:
+      213: -49703125726130537
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_89
+  - first:
+      213: 3145143158272494807
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_90
+  - first:
+      213: -4325717156377190146
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_91
+  - first:
+      213: -4056921852871661880
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_92
+  - first:
+      213: -2339170468937869263
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_93
+  - first:
+      213: -2166319268956055823
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_94
+  - first:
+      213: 6772034281449008731
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_95
+  - first:
+      213: -7020031735486396715
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_96
+  - first:
+      213: 3384626450175822394
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_97
+  - first:
+      213: -5896780557454340179
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_98
+  - first:
+      213: -9020856041489584490
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_99
+  - first:
+      213: -494819772355438928
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_100
+  - first:
+      213: 6960089365457540867
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_101
+  - first:
+      213: 8131241542643877258
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_102
+  - first:
+      213: -5729007586999544635
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_103
+  - first:
+      213: 8093232234868918286
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_104
+  - first:
+      213: 8951728262485265123
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_105
+  - first:
+      213: 2975380317581606819
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_106
+  - first:
+      213: -4419088833276850482
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_107
+  - first:
+      213: 6965475970145773303
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_108
+  - first:
+      213: 1861857461750381153
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_109
+  - first:
+      213: -2769394839513542868
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_110
+  - first:
+      213: -7812932953425507501
+    second: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_111
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 948
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efa2bc13d831e8c0800000000000000
+      internalID: -3971830916993339422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 948
+        width: 22
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca746695850cbf270800000000000000
+      internalID: 8285427425167689644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 948
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939d684eba8867e30800000000000000
+      internalID: 4500935149458217273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 948
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7caecc7ce709880800000000000000
+      internalID: -8606239491303487551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 861
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95405a6db6e5d8810800000000000000
+      internalID: 1769174045882123353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 887
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9e8f9b1a043f180800000000000000
+      internalID: -9082844960122148421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 887
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc08589a0378c850800000000000000
+      internalID: 6397489760022564029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 925
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56bda7811aee0a40800000000000000
+      internalID: 5336459969492268638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 915
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4a52b421e86cd00800000000000000
+      internalID: 992636977103086804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 915
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5290d8af477e9e70800000000000000
+      internalID: 9123861079117566555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 915
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1845c4eaffd63240800000000000000
+      internalID: 4771247123918571551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 915
+        width: 20
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525e2210fd37cc4e0800000000000000
+      internalID: -1960064336179043035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 902
+        width: 18
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4066ac4979f3a83c0800000000000000
+      internalID: -4356599769258629628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 902
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8d2766770f49e90800000000000000
+      internalID: -7019721523553183498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 902
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a261c1ec7f0a7dd50800000000000000
+      internalID: 6762050351695402538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 902
+        width: 20
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195cd185e2ee7de80800000000000000
+      internalID: -8153786717516741231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 889
+        width: 13
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95659b5ce07e50190800000000000000
+      internalID: -7996731512693631399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 889
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744ddf8d3ccffbf70800000000000000
+      internalID: 9205354081457919047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 889
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b96d784681e1660800000000000000
+      internalID: 7358345661224753984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 889
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef28770c75bdba10800000000000000
+      internalID: 1926895759890329575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 878
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eabe63e0b428680800000000000000
+      internalID: -8754352201231782332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 878
+        width: 12
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63111b10a2cd207d0800000000000000
+      internalID: -2953556332626505418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_22
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 878
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9309a111558252a0800000000000000
+      internalID: -6750186308239817826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 815
+        width: 20
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84398e36ae43d8e0800000000000000
+      internalID: -1669904560903605108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 815
+        width: 20
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95be9ad98f856b100800000000000000
+      internalID: 123383864619559769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 815
+        width: 18
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea00d9ebc0ddfb200800000000000000
+      internalID: 198119955434897582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 815
+        width: 18
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468ca1478eac1d050800000000000000
+      internalID: 5823658892895897700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 760
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f6642625cf8e5e0800000000000000
+      internalID: -1879975413660881036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 760
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ed40d9282b71370800000000000000
+      internalID: 8293293512875892266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 760
+        width: 28
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b03623b1c4d9bb0800000000000000
+      internalID: -4927698737580274858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 760
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c3773cdb2306d70800000000000000
+      internalID: 9034276643114793985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 710
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b954554d80df8e0800000000000000
+      internalID: -1658159379745760370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 711
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639eba9f3e94e6070800000000000000
+      internalID: 8101494023181297974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_33
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 711
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd7778b8b432e0e0800000000000000
+      internalID: -2242171696503620136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_34
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 711
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1a10380f8173ae0800000000000000
+      internalID: -1569758523846188617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 668
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2a5cc5de6173250800000000000000
+      internalID: 5924229043548693176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 668
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedc94a315dfb0f40800000000000000
+      internalID: 5695924679052217837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 668
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaf6514dfff346a0800000000000000
+      internalID: -6466043176785872213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 668
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd488cffd476ad50800000000000000
+      internalID: 6748209597024587222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 616
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd45f779b73146e50800000000000000
+      internalID: 6801582758779901147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 616
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e6278b9a657a720800000000000000
+      internalID: 2857347775533837941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 616
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d678f13b67b493c0800000000000000
+      internalID: -4353653268732676398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 616
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0c8ae5cd87b41d0800000000000000
+      internalID: -3365463408653057877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_43
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 641
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4246223b535c8abb0800000000000000
+      internalID: -4924469358100323292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_44
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 640
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a04b924b042b240800000000000000
+      internalID: 4805974894895696401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_45
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 640
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5198f4ae6252f4790800000000000000
+      internalID: -7543770001752225515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 641
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8548b7a0ccaae00800000000000000
+      internalID: 1056881407965812925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_47
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 620
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7bc78244f701ce0800000000000000
+      internalID: -1436508350417422370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_48
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 620
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee60516b58de45250800000000000000
+      internalID: 5932627767695050478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_49
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 619
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f921b18a083fc90800000000000000
+      internalID: -7137219524955037892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_50
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 620
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c2cd29e270a09b0800000000000000
+      internalID: -5113266530311984000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acd3c1859c6fe6e0800000000000000
+      internalID: -1806105536169255770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_52
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 561
+        width: 19
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae33845b739a71370800000000000000
+      internalID: 8293283295555761130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_53
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 561
+        width: 22
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df77acc31aae1a70800000000000000
+      internalID: 8799657723943157717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_54
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 562
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fae59903914d7ef0800000000000000
+      internalID: -108858716210205964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_55
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 562
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a710698d36ce470800000000000000
+      internalID: 8425218784784120341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_56
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 562
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4d00fe8f224bf40800000000000000
+      internalID: 5743253877361267957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_57
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 561
+        width: 18
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de085acb3816e86c0800000000000000
+      internalID: -4139263789073334035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_58
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 561
+        width: 23
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3159434998028ece0800000000000000
+      internalID: -1375813910892604141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_59
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 562
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dec7569115a54b50800000000000000
+      internalID: 6576844325799841488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_60
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 562
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7dc668c61be1ac0800000000000000
+      internalID: -3882470749076924441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 501
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da56871da51b70a0800000000000000
+      internalID: -6882883772337464618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_62
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 500
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ddf6c3f03329ec0800000000000000
+      internalID: -3561728214765150858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_63
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 499
+        width: 19
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20408d032e567df0800000000000000
+      internalID: -182855230218551254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_64
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 499
+        width: 22
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293de67fbb20a1ff0800000000000000
+      internalID: -64736238310075502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_65
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 500
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075c3604eb3bc8240800000000000000
+      internalID: 4795405332948174192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_66
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 500
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34450a45f03d3f780800000000000000
+      internalID: -8650338396450827197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_67
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 500
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2ada00656d6fe10800000000000000
+      internalID: 2231206330275570417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_68
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 501
+        width: 18
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b947f803a880b00800000000000000
+      internalID: 795037275400739681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_69
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 501
+        width: 23
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2973a6d463e4a9d50800000000000000
+      internalID: 6744789387074746258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_70
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 502
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b36389c97ffc900800000000000000
+      internalID: 707055918461106975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 38
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fbf174f80d91fa0800000000000000
+      internalID: -5829398928862232694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_72
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 437
+        width: 37
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7f8c592c9e93400800000000000000
+      internalID: 304531471770122202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_73
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 436
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcee94a1b690050d0800000000000000
+      internalID: -3436236160076484917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_74
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 435
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7bfb858ed1d75c0800000000000000
+      internalID: -4216180792390338640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_75
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 436
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefe817c316202f60800000000000000
+      internalID: 8007442003851276266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_76
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 436
+        width: 39
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa9c2a9b34ba21a0800000000000000
+      internalID: -6833451316498621701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_77
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 436
+        width: 38
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715889cfe585ca3c0800000000000000
+      internalID: -4347002375331347177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_78
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 435
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99d80c1b91dc37e0800000000000000
+      internalID: -1784320888225080932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_79
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 435
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8cd1c0988f9fa40800000000000000
+      internalID: 5402622495505107190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_80
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 436
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f004501af0222b510800000000000000
+      internalID: 1563349471172313103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_81
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 377
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ce850cdefdc6be0800000000000000
+      internalID: -1482563965084439463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 378
+        width: 38
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8004e37d4fa03100800000000000000
+      internalID: 85761140111704206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_83
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 377
+        width: 37
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5406308368797680800000000000000
+      internalID: -8756835631697099686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_84
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 376
+        width: 30
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103cc323a4714d720800000000000000
+      internalID: 2869944469979710209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_85
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 376
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cebb2e6a97cbdf0800000000000000
+      internalID: -163121728816681956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_86
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 377
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929a4419d5d9b3890800000000000000
+      internalID: -7477209731123861207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_87
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 377
+        width: 39
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916d65ba21a4a4330800000000000000
+      internalID: 3695847888255374873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_88
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 379
+        width: 38
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c4aed43757145c0800000000000000
+      internalID: -4232973036662666149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_89
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 378
+        width: 29
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e0ede354b6f4ff0800000000000000
+      internalID: -49703125726130537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_90
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 378
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc059ce90bc5ab20800000000000000
+      internalID: 3145143158272494807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_91
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 323
+        width: 19
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef023573a27f7f3c0800000000000000
+      internalID: -4325717156377190146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_92
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 322
+        width: 18
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6a01eb11be2b7c0800000000000000
+      internalID: -4056921852871661880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_93
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 322
+        width: 23
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138dfd91ad8998fd0800000000000000
+      internalID: -2339170468937869263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_94
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 326
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f65acf3a10bfe1e0800000000000000
+      internalID: -2166319268956055823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_95
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 324
+        width: 19
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e29889c491bfd50800000000000000
+      internalID: 6772034281449008731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_96
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 325
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d64d5e8456d39e90800000000000000
+      internalID: -7020031735486396715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_97
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 322
+        width: 18
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a0f1ce2db98fe20800000000000000
+      internalID: 3384626450175822394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 318
+        width: 22
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf0182535d6a2ea0800000000000000
+      internalID: -5896780557454340179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_99
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 319
+        width: 21
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ea31d893b7fc280800000000000000
+      internalID: -9020856041489584490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_100
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 319
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b61ae8e90c0229f0800000000000000
+      internalID: -494819772355438928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_101
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 266
+        width: 19
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3071219d664379060800000000000000
+      internalID: 6960089365457540867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_102
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 265
+        width: 18
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8500341a19f7d070800000000000000
+      internalID: 8131241542643877258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_103
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 263
+        width: 23
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4df5504f97e70b0800000000000000
+      internalID: -5729007586999544635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_104
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 267
+        width: 19
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e084a1c76dfe05070800000000000000
+      internalID: 8093232234868918286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_105
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 267
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea424b2d6dea3c70800000000000000
+      internalID: 8951728262485265123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_106
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 267
+        width: 19
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aff32572acaa4920800000000000000
+      internalID: 2975380317581606819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_107
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 265
+        width: 18
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece43a59e1e3ca2c0800000000000000
+      internalID: -4419088833276850482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_108
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 262
+        width: 22
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6ee0c7d775aa060800000000000000
+      internalID: 6965475970145773303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_109
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 262
+        width: 21
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aba063f75a6d910800000000000000
+      internalID: 1861857461750381153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_110
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 263
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fcefbf0122199d0800000000000000
+      internalID: -2769394839513542868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Metroid Customs - Phazon Suit Super Metroid-Style_111
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 28
+        width: 337
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b0121afd2e29390800000000000000
+      internalID: -7812932953425507501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -240, y: 385}
+      - {x: -240, y: 433}
+      - {x: -208, y: 433}
+      - {x: -208, y: 385}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
