@@ -1,0 +1,1140 @@
+fileFormatVersion: 2
+guid: ba385f92d9339a8429d03ae6c2505b12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4577821978936678392
+    second: RangedEnemy1
+  - first:
+      213: -5688914531339025149
+    second: SNES - Super Metroid - Enemies_1
+  - first:
+      213: 271240713905031681
+    second: SNES - Super Metroid - Enemies_2
+  - first:
+      213: -3778271105562812132
+    second: SNES - Super Metroid - Enemies_3
+  - first:
+      213: -2232226138907800210
+    second: SNES - Super Metroid - Enemies_4
+  - first:
+      213: 8465331187375935953
+    second: SNES - Super Metroid - Enemies_5
+  - first:
+      213: 5963243171924397272
+    second: SNES - Super Metroid - Enemies_6
+  - first:
+      213: 4696143035682574369
+    second: SNES - Super Metroid - Enemies_7
+  - first:
+      213: -7217275972919777189
+    second: SNES - Super Metroid - Enemies_8
+  - first:
+      213: -6097549567288443392
+    second: SNES - Super Metroid - Enemies_9
+  - first:
+      213: -2728914755829307603
+    second: SNES - Super Metroid - Enemies_10
+  - first:
+      213: -7742462242645522946
+    second: SNES - Super Metroid - Enemies_11
+  - first:
+      213: 8253067001382601309
+    second: SNES - Super Metroid - Enemies_12
+  - first:
+      213: 5667636696097461400
+    second: SNES - Super Metroid - Enemies_13
+  - first:
+      213: 688662144047677931
+    second: SNES - Super Metroid - Enemies_14
+  - first:
+      213: -1862511377149773463
+    second: SNES - Super Metroid - Enemies_15
+  - first:
+      213: -485669778686654841
+    second: SNES - Super Metroid - Enemies_16
+  - first:
+      213: 8977296951824437593
+    second: SNES - Super Metroid - Enemies_17
+  - first:
+      213: -3235068192406238068
+    second: SNES - Super Metroid - Enemies_18
+  - first:
+      213: -5819448248489591793
+    second: SNES - Super Metroid - Enemies_19
+  - first:
+      213: -6907488165589873367
+    second: SNES - Super Metroid - Enemies_20
+  - first:
+      213: -3671805667121713800
+    second: SNES - Super Metroid - Enemies_21
+  - first:
+      213: -3107159080917041072
+    second: SNES - Super Metroid - Enemies_22
+  - first:
+      213: -8566230521595564094
+    second: SNES - Super Metroid - Enemies_23
+  - first:
+      213: -6529252860235015879
+    second: SNES - Super Metroid - Enemies_24
+  - first:
+      213: -2851941145724775793
+    second: SNES - Super Metroid - Enemies_25
+  - first:
+      213: -8357119061942972000
+    second: SNES - Super Metroid - Enemies_26
+  - first:
+      213: -9038954593700556108
+    second: SNES - Super Metroid - Enemies_27
+  - first:
+      213: -7095372246641997694
+    second: SNES - Super Metroid - Enemies_28
+  - first:
+      213: 3245667104510636495
+    second: SNES - Super Metroid - Enemies_29
+  - first:
+      213: 5820661749834917659
+    second: SNES - Super Metroid - Enemies_30
+  - first:
+      213: 5937660824973234709
+    second: SNES - Super Metroid - Enemies_31
+  - first:
+      213: 7303663107684353736
+    second: SNES - Super Metroid - Enemies_32
+  - first:
+      213: 7312765813823700578
+    second: SNES - Super Metroid - Enemies_33
+  - first:
+      213: 3430612796970595735
+    second: SNES - Super Metroid - Enemies_34
+  - first:
+      213: 1923470096313714132
+    second: SNES - Super Metroid - Enemies_35
+  - first:
+      213: -8288709609580433714
+    second: SNES - Super Metroid - Enemies_36
+  - first:
+      213: 2558612451493436735
+    second: SNES - Super Metroid - Enemies_37
+  - first:
+      213: 4767668130704441396
+    second: RangedEnemy2
+  - first:
+      213: -4888099962407704537
+    second: RangedEnemy3
+  - first:
+      213: -7168747476416776074
+    second: RangedEnemy4
+  - first:
+      213: -2453243402679999921
+    second: RangedEnemy5
+  - first:
+      213: 5267947915418977413
+    second: EnemyProjectile
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RangedEnemy1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 664
+        width: 26
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808e08c1a2f4870c0800000000000000
+      internalID: -4577821978936678392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 31
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305caf9ff5aec01b0800000000000000
+      internalID: -5688914531339025149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 31
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10acee00ef3a3c300800000000000000
+      internalID: 271240713905031681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 31
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c116ec79272e09bc0800000000000000
+      internalID: -3778271105562812132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 31
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d0f0c472a8501e0800000000000000
+      internalID: -2232226138907800210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 31
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d114991dd5ea7570800000000000000
+      internalID: 8465331187375935953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 31
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcc3dbf112b1c250800000000000000
+      internalID: 5963243171924397272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 31
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120d840b53d0c2140800000000000000
+      internalID: 4696143035682574369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 31
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58a72ccdb517db90800000000000000
+      internalID: -7217275972919777189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 31
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e7f6989f6216ba0800000000000000
+      internalID: -6097549567288443392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 31
+        width: 18
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27e87cec72f02ad0800000000000000
+      internalID: -2728914755829307603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 31
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef54d349c9f3d8490800000000000000
+      internalID: -7742462242645522946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 31
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5288ec06b8c88270800000000000000
+      internalID: 8253067001382601309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 9
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8949bd2fb8d77ae40800000000000000
+      internalID: 5667636696097461400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 9
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be18832429e9e8900800000000000000
+      internalID: 688662144047677931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 9
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9693dde35c70726e0800000000000000
+      internalID: -1862511377149773463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 9
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7864d33d8ed8249f0800000000000000
+      internalID: -485669778686654841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 9
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95151b09304c59c70800000000000000
+      internalID: 8977296951824437593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 6
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c067f7e9aba13d0800000000000000
+      internalID: -3235068192406238068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 9
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c320896aa2d3fa0800000000000000
+      internalID: -5819448248489591793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 9
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d0dcf5c1ca320a0800000000000000
+      internalID: -6907488165589873367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 9
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87da1f623302b0dc0800000000000000
+      internalID: -3671805667121713800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 9
+        width: 19
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0508f41474721e4d0800000000000000
+      internalID: -3107159080917041072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 9
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfef28f9b2ae1980800000000000000
+      internalID: -8566230521595564094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 9
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9391df8fd1f6365a0800000000000000
+      internalID: -6529252860235015879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 9
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8211c063aedb68d0800000000000000
+      internalID: -2851941145724775793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 9
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a15e37bd7c850c80800000000000000
+      internalID: -8357119061942972000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 9
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2d79dffae2f8280800000000000000
+      internalID: -9038954593700556108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 6
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2880db9d88c288d90800000000000000
+      internalID: -7095372246641997694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 6
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1f687090dea0d20800000000000000
+      internalID: 3245667104510636495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 9
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b172d94b50527c050800000000000000
+      internalID: 5820661749834917659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 9
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512584daf0fc66250800000000000000
+      internalID: 5937660824973234709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 9
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6c6a466e2db5560800000000000000
+      internalID: 7303663107684353736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 9
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ef49253c92c7560800000000000000
+      internalID: 7312765813823700578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 9
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7957755a92cfb9f20800000000000000
+      internalID: 3430612796970595735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 9
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d58dd29cd981ba10800000000000000
+      internalID: 1923470096313714132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 9
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece679a868698fc80800000000000000
+      internalID: -8288709609580433714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Metroid - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 9
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d5821f774028320800000000000000
+      internalID: 2558612451493436735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangedEnemy2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 663
+        width: 27
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430c69997e82a2240800000000000000
+      internalID: 4767668130704441396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangedEnemy3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 659
+        width: 27
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728a6128bfaf92cb0800000000000000
+      internalID: -4888099962407704537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangedEnemy4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 660
+        width: 27
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67833bfd62e738c90800000000000000
+      internalID: -7168747476416776074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangedEnemy5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 662
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4220b38f1454fdd0800000000000000
+      internalID: -2453243402679999921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyProjectile
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 626
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584cec1e7b28b1940800000000000000
+      internalID: 5267947915418977413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
