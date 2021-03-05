@@ -28,4 +28,18 @@ public class Projectile : MonoBehaviour
         }
         
     }
+
+private void OnCollisionEnter2D(Collision2D collision)
+{
+    if (collision.gameObject.layer == 3)
+    {
+        Destroy(gameObject);
+    }
+
+    if (collision.gameObject.tag == "Enemy" || collision.gameObject.tag == "Squish")
+    {
+        collision.gameObject.GetComponent<EnemyTurret>();
+        Destroy(gameObject);
+    }
+}
 }

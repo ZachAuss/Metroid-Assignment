@@ -131,6 +131,21 @@ TextureImporter:
   - first:
       213: 5267947915418977413
     second: EnemyProjectile
+  - first:
+      213: -973105434236451018
+    second: EnemyWalker1
+  - first:
+      213: -2690716657554439822
+    second: EnemyWalker2
+  - first:
+      213: -6135665723404973168
+    second: EnemyWalker3
+  - first:
+      213: 9022392493134114594
+    second: EnemyWalker4
+  - first:
+      213: -6132696423394156743
+    second: EnemyWalker5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -175,7 +190,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 25
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -1089,7 +1104,7 @@ TextureImporter:
         width: 27
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1118,6 +1133,111 @@ TextureImporter:
       bones: []
       spriteID: 584cec1e7b28b1940800000000000000
       internalID: 5267947915418977413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyWalker1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 530
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637855763c5de72f0800000000000000
+      internalID: -973105434236451018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyWalker2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 529
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271cd3bb477a8aad0800000000000000
+      internalID: -2690716657554439822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyWalker3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 529
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b08ef588cb9daa0800000000000000
+      internalID: -6135665723404973168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyWalker4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 529
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fe8697b2af53d70800000000000000
+      internalID: 9022392493134114594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyWalker5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 529
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f5848681944eaa0800000000000000
+      internalID: -6132696423394156743
       vertices: []
       indices: 
       edges: []
