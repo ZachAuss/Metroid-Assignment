@@ -34,13 +34,39 @@ public class EnemyWalker : MonoBehaviour
     }
 
     // Update is called once per frame
-  
 
+    void Update()
+    {
+        if (!anim.GetBool("Death") && !anim.GetBool("Squished"))
+            if (sr.flipX)
+            {
+                rb.velocity = new Vector2(-speed, rb.velocity.y);
+            }
+            else
+            {
+                rb.velocity = new Vector2(speed, rb.velocity.y);
+
+            }
+
+
+    }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Barrier")
         {
             sr.flipX = !sr.flipX;
+        }
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Projectile")
+        {
+            health--;
+            Destroy(collision.gameObject);
+            if (health <= 0)
+            {
+                Destroy(gameObject);
+            }
         }
     }
 }

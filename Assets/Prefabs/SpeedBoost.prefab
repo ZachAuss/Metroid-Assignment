@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 716089840935577388}
   - component: {fileID: -2897669359737807625}
   - component: {fileID: -7887450299239730838}
-  - component: {fileID: 3009809638102223558}
+  - component: {fileID: 938183291905635647}
   m_Layer: 0
-  m_Name: Collectible 4
+  m_Name: SpeedBoost
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73,7 +73,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1891535401
   m_SortingLayer: 2
-  m_SortingOrder: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: -1822507616561474397, guid: 93a22d1eb22722b499bdee8612f2f216, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -122,7 +122,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &3009809638102223558
+--- !u!114 &938183291905635647
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -131,6 +131,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 6900347512669489031}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b00578dd076ac1b4188cd4e1717ce97c, type: 3}
+  m_Script: {fileID: 11500000, guid: 74bbc7ad642ce484cabb5651bc3e419c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

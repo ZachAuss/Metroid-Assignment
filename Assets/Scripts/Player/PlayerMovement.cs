@@ -18,6 +18,7 @@ public class PlayerMovement : MonoBehaviour
     public LayerMask isGroundLayer;
     public Transform groundCheck;
     public float groundCheckRadius;
+    
 
     // Start is called before the first frame update
     void Start()
@@ -46,13 +47,15 @@ public class PlayerMovement : MonoBehaviour
         {
             Debug.Log("Groundcheck does not exist, please set a transform value for groundcheck");
         }
+        
 
-    }
+}
 
     // Update is called once per frame
     void Update()
     {
-        float horizontalInput = Input.GetAxisRaw("Horizontal");
+       
+    float horizontalInput = Input.GetAxisRaw("Horizontal");
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, isGroundLayer);
 
         if (Input.GetButtonDown("Jump") && isGrounded)
@@ -79,6 +82,20 @@ public class PlayerMovement : MonoBehaviour
         if (playerSprite.flipX && horizontalInput > 0 || !playerSprite.flipX && horizontalInput < 0)
             playerSprite.flipX = !playerSprite.flipX;
     }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Enemy")
+        {
+            GameManager.instance.lives--;
+        }
+
+        if (collision.gameObject.tag == "EnemyProjectile")
+        {
+            GameManager.instance.lives--;
+            Destroy(collision.gameObject);
+        }
+    }
+   
 
     public void StartJumpForceChange()
     {
@@ -91,5 +108,16 @@ public class PlayerMovement : MonoBehaviour
         yield return new WaitForSeconds(2.0f);
         jumpForce = 200;
 
+    }
+    public void SpeedChange()
+    {
+        StartCoroutine(SpeedForceChange());
+    }
+
+    IEnumerator SpeedForceChange()
+    {
+        speed = 10;
+        yield return new WaitForSeconds(3.0f);
+        speed = 5;
     }
 }
