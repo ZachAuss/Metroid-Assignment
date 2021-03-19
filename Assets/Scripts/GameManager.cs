@@ -53,7 +53,9 @@ public class GameManager : MonoBehaviour
         }
     }
 
-
+    public GameObject playerInstance;
+    public GameObject playerPrefab;
+    public LevelManager currentLevel;
 
 
     // Start is called before the first frame update
@@ -90,13 +92,49 @@ public class GameManager : MonoBehaviour
             }
         }
 
-        if (Input.GetKeyDown(KeyCode.Backspace))
+       
+
+
+    }
+
+    public void SpawnPlayer(Transform spawnLocation)
+    {
+        CameraFollow mainCamera = FindObjectOfType<CameraFollow>();
+
+        if (mainCamera)
         {
+            mainCamera.player = Instantiate(playerPrefab, spawnLocation.position, spawnLocation.rotation);
+            playerInstance = mainCamera.player;
+        }
+        else
+        {
+            SpawnPlayer(spawnLocation);
+        }
+
+
+    }
+
+    public void Respawn()
+    {
+        playerInstance.transform.position = currentLevel.spawnLocation.position;
+    }
+
+    public void StartGame()
+    {
+        SceneManager.LoadScene("Level");
+    }
+
+    public void QuitGame()
+    {
 #if UNITY_EDITOR
             EditorApplication.isPlaying = false;
 #else
-            Application.Quit();
+        Application.Quit();
 #endif
-        }
+    }
+
+    public void ReturnToMenu()
+    {
+        SceneManager.LoadScene("Title Screen");
     }
 }
