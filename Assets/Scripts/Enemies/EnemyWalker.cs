@@ -11,9 +11,11 @@ public class EnemyWalker : MonoBehaviour
     Rigidbody2D rb;
     SpriteRenderer sr;
     Animator anim;
+    AudioSource enemyDeathAudioSource;
 
     public int health;
     public float speed;
+    public AudioClip enemyDeathSFX;
 
     // Start is called before the first frame update
     void Start()
@@ -65,7 +67,19 @@ public class EnemyWalker : MonoBehaviour
             Destroy(collision.gameObject);
             if (health <= 0)
             {
-                Destroy(gameObject);
+                GameManager.instance.score ++;
+                if (!enemyDeathAudioSource)
+                {
+                    enemyDeathAudioSource = gameObject.AddComponent<AudioSource>();
+                    enemyDeathAudioSource.clip = enemyDeathSFX;
+                    enemyDeathAudioSource.loop = false;
+                    enemyDeathAudioSource.Play();
+                }
+                else
+                {
+                    enemyDeathAudioSource.Play();
+                }
+                transform.position = Vector3.one * 999999999f;
             }
         }
     }

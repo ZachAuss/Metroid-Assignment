@@ -267,6 +267,7 @@ MonoBehaviour:
     m_Bits: 8
   groundCheck: {fileID: 319415360}
   groundCheckRadius: 0.01
+  jumpSFX: {fileID: 8300000, guid: 6e7634f5724c57a4f83c97387c36e86d, type: 3}
 --- !u!114 &1936124160413559165
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -283,3 +284,4 @@ MonoBehaviour:
   spawnPointRight: {fileID: 912344405}
   projectileSpeed: 15
   projectilePrefab: {fileID: 5656435790978626075, guid: eefc0763dc4be5e4188b8b500840a5ef, type: 3}
+  fireSFX: {fileID: 8300000, guid: 8d011f90ed2c1a343a405b5a442cdb36, type: 3}

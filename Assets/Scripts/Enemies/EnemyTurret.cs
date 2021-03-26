@@ -6,6 +6,7 @@ using UnityEngine;
 public class EnemyTurret : MonoBehaviour
 {
     SpriteRenderer enemyTurret;
+    AudioSource enemyDeathAudioSource;
 
     public Transform projectileSpawnPointLeft;
     public Transform projectileSpawnPointRight;
@@ -18,13 +19,13 @@ public class EnemyTurret : MonoBehaviour
     float timeSinceLastFire = 0;
     public int health;
     bool isFacingLeft = true;
+    public AudioClip enemyDeathSFX;
 
     Animator anim;
 
     // Start is called before the first frame update
     void Start()
     {
-
         enemyTurret = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
 
@@ -99,8 +100,22 @@ public class EnemyTurret : MonoBehaviour
             Destroy(collision.gameObject);
             if (health <= 0)
             {
-                Destroy(gameObject);
+                GameManager.instance.score++;
+
+                if (!enemyDeathAudioSource)
+                {
+                    enemyDeathAudioSource = gameObject.AddComponent<AudioSource>();
+                    enemyDeathAudioSource.clip = enemyDeathSFX;
+                    enemyDeathAudioSource.loop = false;
+                    enemyDeathAudioSource.Play();
+                }
+                else
+                {
+                    enemyDeathAudioSource.Play();
+                }
+                transform.position = Vector3.one * 999999999f;
             }
+        
         }
     }
 

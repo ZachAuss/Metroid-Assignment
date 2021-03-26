@@ -46,3 +46,6 @@ MonoBehaviour:
   respawnPoint: {fileID: 0}
   PlayerPrefab: {fileID: 0}
   maxLives: 3
+  playerInstance: {fileID: 0}
+  playerPrefab: {fileID: 0}
+  currentLevel: {fileID: 0}

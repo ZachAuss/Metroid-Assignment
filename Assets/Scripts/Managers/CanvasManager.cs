@@ -18,6 +18,7 @@ public class CanvasManager : MonoBehaviour
 
     public Text livesText;
     public Text volumeText;
+    public Text scoreText;
 
     public Slider volumeSlider;
     // Start is called before the first frame update
@@ -83,6 +84,10 @@ public class CanvasManager : MonoBehaviour
       if (livesText)
         {
             livesText.text = GameManager.instance.lives.ToString();
+        }
+        if (scoreText)
+        {
+            scoreText.text = GameManager.instance.score.ToString();
         }
     }
 
